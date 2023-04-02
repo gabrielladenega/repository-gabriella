@@ -1,0 +1,216 @@
+header{/* Rectangle 6 */
+position: absolute;
+width: 1212px;
+height: 387px;
+left: 114px;
+top: 78px;
+
+background: linear-gradient(180deg, #FFF9F4 0%, #C8B3A5 100%);
+border-radius: 40px;}
+header0{/* Rectangle 7 */
+box-sizing: border-box;
+
+position: absolute;
+width: 1107px;
+height: 301px;
+left: 166px;
+top: 131px;
+
+background: #FFFFFF;
+border: 2px solid #464649;
+border-radius: 40px;}
+header1{/* Rectangle 10 */
+box-sizing: border-box;
+
+position: absolute;
+width: 347px;
+height: 176px;
+left: 248px;
+top: 193px;
+
+background: url(transferir.jpg);
+mix-blend-mode:normal;
+border: 2px solid #464649;
+border-radius: 20px;}
+body{/* Frame 1 */
+position:relative;
+width: 0px;
+height:0px;
+
+background: #C8B3A5;}
+body0{/* Rectangle 5 */
+position: absolute;
+width: 1440px;
+height: 454px;
+left: -10px;
+top: 588px;
+
+background: #FFF9F4;}
+h1{/* Gabriella Denega */
+position: absolute;
+width: 492px;
+height: 89px;
+left: 637px;
+top: 50px;
+
+font-family: 'Cinzel';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 67px;
+
+color: #464649;}
+h2{/* estudante */
+position: absolute;
+width: 218px;
+height: 47px;
+left: 750px;
+top: 150px;
+
+font-family: 'Cinzel';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 47px;
+
+color: #000000;}
+h3{/* Line 1 */
+position: absolute;
+width: 288.01px;
+height: 0px;
+left: 670px;
+top: 160px;
+
+border: 1px solid #000000;}
+h4{/* Line 2 */
+position: absolute;
+width: 288px;
+height: 0px;
+left: 670px;
+top: 202px;
+
+border: 1px solid #000000;}
+body1{/* Rectangle 8 */
+box-sizing: border-box;
+
+position: absolute;
+width: 1212px;
+height: 450px;
+left: 114px;
+top:530px;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+border: 2px solid #464649;
+border-radius: 40px;}
+h5{/* sobre mim */
+position: absolute;
+width: 206px;
+height: 50px;
+left: 50px;
+top: -50px;
+
+font-family: 'Cinzel';
+font-style: normal;
+font-weight: 700;
+font-size: 35px;
+line-height: 47px;
+
+color: #464649;}
+h6{/* Line 3 */
+position: absolute;
+width: 1102px;
+height: 0px;
+left: 50px;
+top: 30px;
+
+border: 1px solid #000000;}
+P{position: absolute;
+width: 1113px;
+height: 34px;
+left: 50px;
+top: 45px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 26px;
+line-height: 34px;
+/* identical to box height */
+
+color: #000000;}
+h7{position: absolute;
+width: 294px;
+height: 59px;
+left: 165px;
+top: 670px;
+
+font-family: 'Cinzel';
+font-style: normal;
+font-weight: 700;
+font-size: 35px;
+line-height: 47px;
+
+color: #464649;}
+h8{/* Line 4 */
+
+
+position: absolute;
+width: 1103.05px;
+height: 0px;
+left:-165px;
+top: -625px;
+
+mix-blend-mode: normal;
+border: 1px solid #000000;}
+P1{/* Ensino Médio - Cursando o 2° Ano Matutino.
+   Escola Estadual Presidente Costa e Silva E. F. M. e PROF. */
+position: absolute;
+width: 1117px;
+height: 78px;
+left: -165px;
+top: -610px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 26px;
+line-height: 34px;
+
+color: #000000;}
+H9{/* contato */
+position: absolute;
+width: 218px;
+height: 28px;
+left: -165px;
+top: -542px;
+
+font-family: 'Cinzel';
+font-style: normal;
+font-weight: 700;
+font-size: 35px;
+line-height: 47px;
+
+color: #464649;}
+h10{/* Line 5 */
+position: absolute;
+width: 1103.07px;
+height: 0px;
+left: -165px;
+top: -495px;
+
+border: 1px solid #000000;}
+p2{/* Email: gabriella.denega@escola.pr.gov.br */
+position: absolute;
+width: 510px;
+height: 43px;
+left: -165px;
+top: -480px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 26px;
+line-height: 34px;
+
+color: #000000;}
